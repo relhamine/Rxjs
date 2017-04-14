@@ -1,0 +1,2 @@
+http://www.meanjs.fr/differences-entre-observable-et-promise/
+http://www.learn-angular.fr/comprendre-rxjs/
